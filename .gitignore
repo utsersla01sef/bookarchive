@@ -1,0 +1,19 @@
+# 大文件不入库：书籍/幻灯片/视频源文件以 MD5 关联本地文件
+*.pdf
+*.epub
+*.mobi
+*.azw3
+*.pptx
+*.ppt
+*.mp4
+*.mkv
+*.avi
+*.docx
+
+# 如日后需将书入库，改用 git-lfs 并删除上方对应后缀
+
+# 临时/系统文件
+booknames.list*.txt
+~$*
+.DS_Store
+Thumbs.db
