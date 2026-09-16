@@ -1,11 +1,18 @@
 # 计算机&机器学习 · 索引
 
-> 形态：📚 书 📊 PPT 📄 论文 📝 讲义 🎬 视频 🔗 链接 ｜ 更新：2026-09-16 ｜ 在库 2 ｜ 待收录 2 ｜ 待补 1
-
-## 在库
+> 形态：📚 书 📊 PPT 📄 论文 📝 讲义 🎬 视频 🔗 链接 ｜ 更新：2026-09-16 ｜ 在库 11 ｜ 待收录 2 ｜ 待补 1
 
 | 形态 | 名称 | 来源/编码 | 状态 | 笔记 |
 |---|---|---|---|---|
+| 📊 | 统计学习方法（第2版）配套课件 (李航) | MD5 `-`·zip 57.9MB·21章pptx（allub\统计学习方法-课件 (李航).zip） | 已整理 | [笔记](notes/统计学习方法-课件 (李航)/笔记.md) |
+| 📚 | 统计学习方法 第2版 (李航) [课件版] | ISBN 9787302517276 | 未读 | ☐ |
+| 📚 | 统计学习方法 第2版 (李航) [大扫描版] ⚠同版不同扫件 | ISBN 9787302517276 | 待确认 | ☐ |
+| 📚 | JavaScript忍者秘籍 第2版 (Resig, Bibeault, Maras) | ISBN 9787115473264 | 未读 | ☐ |
+| 📚 | 你不知道的JavaScript（上卷）(Kyle Simpson) | MD5 `ad073a4a…`（人民邮电） | 未读 | ☐ |
+| 📚 | 你不知道的JavaScript（中卷）(Kyle Simpson) | MD5 `e0154a2e…`（人民邮电） | 未读 | ☐ |
+| 📚 | WebKit技术内幕 (朱永盛) | ISBN 9787121229640 | 未读 | ☐ |
+| 📚 | 编译原理 第二版 (Aho, Lam, Sethi) | ISBN 9787111251217 | 未读 | ☐ |
+| 📚 | 电子电气工程师必知必会 第3版 (Ashby) | ISBN 9787115321824 | 未读 | ☐ |
 | 📝 | Transformer 与大语言模型·知识要点（改写版） | 公开课程速查表改写（Apr-2025 版） | 已读 | [笔记](notes/Transformer与大语言模型速查（改写版）/笔记.md) |
 | 📝 | How I use LLMs to learn complex topics | laurentiugabriel.github.io（Aug-2026） | 已读 | [笔记](notes/how-i-use-llms-to-learn-complex-topics/笔记.md) |
 
@@ -21,7 +28,3 @@
 |---|---|---|---|---|---|
 | 📚 | 我看见的世界 (李飞飞) | 李飞飞自传·AI 视觉与 AI 时代 | epub+PDF 10.1MB ⚠副本×3 | 待收录 | ☐ |
 | 📚 | AI Agents with MCP (Kyle Stratis, Early Release) | MCP 智能体开发（早期版） | PDF 788KB + txt 87KB | 待收录 | ☐ |
-
-> 迁入候选（现位于「其他」）：
-> - 编译原理 第二版（Aho, Lam, Sethi）— MD5 `5685aa64…`
-> - 电子电气工程师必知必会 第3版（Ashby）— MD5 `072e3839…`
