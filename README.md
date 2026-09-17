@@ -28,6 +28,7 @@ BookArchive/
 | 数学&物理 | 在库 14 ｜ 待收录 3 | [INDEX](数学&物理/INDEX.md) |
 | 文明&历史 | 在库 8 ｜ 待收录 10 | [INDEX](文明&历史/INDEX.md) |
 | 育儿&哲学 | 在库 24（含综述）｜ 待收录 6 | [INDEX](育儿&哲学/INDEX.md) |
+| 书签&链接 | 在库 1（🧩 书签总集） | [INDEX](书签&链接/INDEX.md) |
 
 ## 形态枚举（front-matter `kind`）
 
